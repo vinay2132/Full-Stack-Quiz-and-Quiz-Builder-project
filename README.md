@@ -1,3 +1,33 @@
+🚀 Full Stack Quiz & Quiz Builder Platform
+Take your e-learning platform or educational website to the next level with this powerful Full Stack Quiz and Quiz Builder solution. Built for flexibility and scalability, this project allows users to seamlessly create, manage, and take quizzes with ease.
+
+🧰 Key Features
+Quiz Builder: Create custom quizzes using a clean, intuitive interface.
+
+Quiz Management: Edit or delete quizzes effortlessly with a simple management system.
+
+Interactive Quiz Taking: Provide users with real-time feedback and scoring for an engaging experience.
+
+📦 What’s Included
+Gain full access to the complete source code for both the quiz application and quiz builder. Getting started is easy:
+
+Download the Source Code: After purchase, download and extract the project files.
+
+Install Dependencies: Make sure you have Node.js and npm or Yarn installed. Run npm install or yarn install in the root directory.
+
+Configure the Environment: Add your MongoDB connection string to the .env file.
+
+Start the Dev Server: Launch the app with npm run dev or yarn dev.
+
+Explore the App: Open your browser and go to http://localhost:3000 to start building and taking quizzes.
+
+🛠 Tech Stack
+Frontend: React, Next.js
+
+Styling: Tailwind CSS
+
+Database: MongoDB
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
